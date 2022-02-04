@@ -14,7 +14,7 @@ If you have a compatible GPU, please ensure that your GPU drivers are up-to-date
 Our application can also be installed in any operating system that supports its dependencies. It requires **Python 3.6.8 or later** and **CUDA 10.1** (to enable the use of GPUs to greatly reduce the automatic segmentation time. It can be used without CUDA on CPU, with a longer execution time.).
 
 1. Download the current project:
-   > git clone https://gitfront.io/r/user-4306573/be116855b22f779ae17fb981f89fbd138ac27133/DeepSpineNet-GUI/
+   > git clone https://gitfront.io/r/user-4306573/be116855b22f779ae17fb981f89fbd138ac27133/DeepSpineNet-GUI.git
 2. Install dependencies (from the root directory of the project):
    > pip install -r requirements.txt.
 3. Download our models (`models.zip`) from https://bit.ly/3Dvf2p4
